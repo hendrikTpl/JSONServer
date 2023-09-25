@@ -188,10 +188,6 @@
       "id": "650e4f119fd68a24210b7282",
       "name": "cam-5",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -199,10 +195,6 @@
       "id": "650e590b9fd68a24210b7283",
       "name": "cam1user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -210,10 +202,6 @@
       "id": "650e635e9fd68a24210b7286",
       "name": "cam2user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -221,10 +209,6 @@
       "id": "65104c61ae68f2596506293c",
       "name": "cam3user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -232,10 +216,6 @@
       "id": "65104c6eae68f2596506293d",
       "name": "cam4user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -243,10 +223,6 @@
       "id": "65104c8fae68f2596506293e",
       "name": "cam5user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     },
     {
@@ -254,10 +230,6 @@
       "id": "65105502ae68f2596506293f",
       "name": "cam7user1",
       "source": "rtsp://solomon:solomon888@10.1.2.68:88/videoMain",
-      "user": {
-        "id": "650cee862b8eb277fcf9a303",
-        "username": "user2"
-      },
       "username": "user1"
     }
   ]
